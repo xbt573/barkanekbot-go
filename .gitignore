@@ -1,3 +1,4 @@
 aneks
 aneks/aneks.db
 barkanekbot-go
+*.session*
